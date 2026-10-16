@@ -1,3 +1,3 @@
-# PATH-CA Athlete Tables
+# Paseo Season Cuts Tracker
 
-Password-protected pages for PATH-CA coaches and families. The pages are encrypted; there is nothing readable here.
+Password-protected pages for Paseo Aquatics (PATH-CA) coaches and families. The pages are encrypted; there is nothing readable here.

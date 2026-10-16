@@ -1,11 +1,11 @@
 {
- "name": "PATH-CA Athlete Tables",
- "short_name": "PATH Cuts",
+ "name": "Paseo Season Cuts Tracker",
+ "short_name": "Paseo Cuts",
  "start_url": "2026-27_athlete_tables.html",
  "scope": "./",
  "display": "standalone",
- "background_color": "#1d1d1b",
- "theme_color": "#1d1d1b",
+ "background_color": "#0b0b0b",
+ "theme_color": "#0b0b0b",
  "icons": [
   {
    "src": "icon-192.png",
